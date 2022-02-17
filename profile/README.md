@@ -4,7 +4,7 @@
 
 There is my pet project about financial management.
 
-👩‍💻 Useful resources:
+## 👩‍💻 Useful resources:
 
 <!--
 
