@@ -6,8 +6,7 @@ There is my pet project about financial management.
 
 ## 👩‍💻 Useful resources:
 
-- :scroll: [Software Requirements Document *UA*](https://github.com/Coin-Assistant)
-- :scroll: [Software Requirements Document *ENG*](https://github.com/Coin-Assistant)
+- :scroll: [Software Requirements Document](https://github.com/Coin-Assistant)
 
 <!--
 
