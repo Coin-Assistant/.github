@@ -1,1 +1,5 @@
-# .github
+# Coin-Assistant
+
+# About
+
+## Useful links:
