@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-There is my pet project about financial management.
+There is my pet project about **???**.
 
 ## 👩‍💻 Useful resources:
 
